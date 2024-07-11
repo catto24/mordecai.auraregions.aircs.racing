@@ -1,8 +1,8 @@
 <html>
     <head>
         <title>Title</title>
-        <link rel="stylesheet" href="stylesheet.css">
-        <link rel="favicon" href="favicon.png">
+        <link rel="stylesheet" href="/stylesheet.css">
+        <link rel="favicon" href="/favicon.png">
     </head>
     <body>
         <h2>Haitch Two</h2>
