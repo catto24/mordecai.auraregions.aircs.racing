@@ -1,16 +1,15 @@
 <html>
     <head>
-        <title>TItle</title>
+        <title>Title</title>
         <link rel="stylesheet" href="stylesheet.css">
         <link rel="favicon" href="favicon.png">
     </head>
     <body>
-        <h2>Haitch Two </h2>
-        <p>Text.</p>
+        <h2>Haitch Two</h2>
+        <p>Text</p>
         <br />
-        <div style="position: relative;background-color: blue; width: 600px; height: 800px;">    
-
-            <div style="position: absolute; bottom: 5px; background-color: green">
+        <div style="position: relative; width: 600px; height: 800px;"></div>
+            <div style="position: absolute; bottom: 5px;">
                 <a href="https://aircs.racing">aircs.racing</a>
                 <p>Mordecai is a ficticious city within the bits & Bytes Minecraft Server.</p>
             </div>
