@@ -1,11 +1,12 @@
 <html>
     <head>
-        <title>Mordecai | A city in the Aura Regions</title>
+        <title>TItle</title>
         <link rel="stylesheet" href="stylesheet.css">
         <link rel="favicon" href="favicon.png">
     </head>
     <body>
-        <h2>Site under construction</h2>
+        <h2>Haitch Two </h2>
+        <p>Text.</p>
         <br />
         <div style="position: relative;background-color: blue; width: 600px; height: 800px;">    
 
